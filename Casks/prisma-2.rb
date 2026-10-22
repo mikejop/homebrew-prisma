@@ -1,6 +1,6 @@
 cask "prisma-2" do
-  version "2.0.0.5,7"
-  sha256 "f7aa9b986159dd815caae867899db60ef75ec1568afb5f1902f7b9ba89ac90df"
+  version "2.0.0.6,8"
+  sha256 "23ea6071296563b50bd1c7604499da2a5da2ec1a649c6f3efca094e63441349a"
 
   url "https://pub-6bdc7bd5cb4646358136c4989f36d812.r2.dev/PRISMA-2-#{version.csv.first}-#{version.csv.second}.zip"
   name "PRISMA 2"
